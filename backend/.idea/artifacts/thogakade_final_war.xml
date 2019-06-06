@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="thogakade-final:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="thogakade-final-1.0.0.war">
+      <element id="artifact" artifact-name="thogakade-final:war exploded" />
+    </root>
+  </artifact>
+</component>
